@@ -15,23 +15,23 @@
 ### My Tech Stack is
 
 ###### Compute
-https://badgen.net/badge/icon/windows?icon=windows&label
+![](https://badgen.net/badge/icon/windows?icon=windows&label)
 
 ###### Developer
-https://badgen.net/badge/icon/git?icon=git&label https://badgen.net/badge/icon/github?icon=github&label https://badgen.net/badge/icon/gitlab?icon=gitlab&label https://badgen.net/badge/icon/jira?icon=jira&label https://badgen.net/badge/icon/maven?icon=maven&label https://badgen.net/badge/icon/nuget?icon=nuget&label https://badgen.net/badge/icon/terminal?icon=terminal&label
+![](https://badgen.net/badge/icon/git?icon=git&label) ![](https://badgen.net/badge/icon/github?icon=github&label) ![](https://badgen.net/badge/icon/gitlab?icon=gitlab&label) ![](https://badgen.net/badge/icon/jira?icon=jira&label) ![](https://badgen.net/badge/icon/maven?icon=maven&label) ![](https://badgen.net/badge/icon/nuget?icon=nuget&label) ![](https://badgen.net/badge/icon/terminal?icon=terminal&label)
 
 ###### Cloud
-https://badgen.net/badge/icon/azure%20fundamentals?icon=azure&label https://badgen.net/badge/icon/aws?icon=amazonaws&label
+![](https://badgen.net/badge/icon/azure%20fundamentals?icon=azure&label  "Azure") ![](https://badgen.net/badge/icon/aws?icon=amazonaws&label)
 
 
 
 ### Learning & New Technologies
 
-- 🌱 I am currently learning ... https://badgen.net/badge/icon/git?icon=git&label
+- 🌱 I am currently learning ... ![](https://badgen.net/badge/icon/git?icon=git&label)
 
 
 ### Contact
-- 📫 How to reach me: [https://linktr.ee/charlesjfowler](https://linktr.ee/charlesjfowler), https://badgen.net/badge/icon/discord?icon=discord&label https://badgen.net/badge/icon/slack?icon=slack&label https://badgen.net/badge/icon/telegram?icon=telegram&label https://badgen.net/badge/icon/twitter?icon=twitter&label
+- 📫 How to reach me: [https://linktr.ee/charlesjfowler](https://linktr.ee/charlesjfowler), ![](https://badgen.net/badge/icon/discord?icon=discord&label) ![](https://badgen.net/badge/icon/slack?icon=slack&label) ![](https://badgen.net/badge/icon/telegram?icon=telegram&label) ![](https://badgen.net/badge/icon/twitter?icon=twitter&label)
 - 😄 Pronouns: he/him/his/hij/il
 - ⚡ Fun fact: I climbed My Kenya, and I represented my country in sport, and I used to Dive
 
