@@ -47,7 +47,7 @@
 
 
 ### Contact
-- 📫 How to reach me: [![](https://badgen.net/badge/icon/LinkTree:%20Charles%20J$20Fowler?icon=linktree&label)](https://linktr.ee/charlesjfowler), ![](https://badgen.net/badge/icon/discord?icon=discord&label) ![](https://badgen.net/badge/icon/slack?icon=slack&label) ![](https://badgen.net/badge/icon/telegram?icon=telegram&label) ![](https://badgen.net/badge/icon/twitter?icon=twitter&label)
+- 📫 How to reach me: [![](https://badgen.net/badge/icon/LinkTree:%20Charles%20J%20Fowler?icon=linktree&label)](https://linktr.ee/charlesjfowler), ![](https://badgen.net/badge/icon/discord?icon=discord&label) ![](https://badgen.net/badge/icon/slack?icon=slack&label) ![](https://badgen.net/badge/icon/telegram?icon=telegram&label) ![](https://badgen.net/badge/icon/twitter?icon=twitter&label)
 - 😄 Pronouns: he/him/his/hij/il
 - ⚡ Fun fact: I climbed My Kenya, and I represented my country in sport, and I used to Dive
 
