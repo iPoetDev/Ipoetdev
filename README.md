@@ -37,7 +37,7 @@
 ![](https://badgen.net/badge/icon/git?icon=git&label) ![](https://badgen.net/badge/icon/github?icon=github&label) ![](https://badgen.net/badge/icon/gitlab?icon=gitlab&label) ![](https://badgen.net/badge/icon/jira?icon=jira&label) ![](https://badgen.net/badge/icon/maven?icon=maven&label) ![](https://badgen.net/badge/icon/nuget?icon=nuget&label) ![](https://badgen.net/badge/icon/terminal?icon=terminal&label)
 
 ###### Cloud
-![](https://badgen.net/badge/icon/azure%20fundamentals?icon=azure&label  "Azure") ![](https://badgen.net/badge/icon/aws?icon=amazonaws&label)
+![](https://badgen.net/badge/Azure/azure%20fundamentals?icon=azure&label  "Azure") ![](https://badgen.net/badge/AWS/aws?icon=amazonaws&label)
 
 
 
