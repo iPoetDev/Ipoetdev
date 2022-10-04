@@ -8,10 +8,6 @@
 
 - [x] Researching the following topics
 
-<<<<<<< Updated upstream
-
-=======
->>>>>>> Stashed changes
 ![](https://badgen.net/badge/Git/Git%20Credential%20Helpers?icon=git) ![](https://badgen.net/badge/GitHub/Git%20Credential%20Helpers?icon=github) ![](https://badgen.net/badge/GitLab/Git%20Credential%20Helpers?icon=gitlab) ![](https://badgen.net/badge/Bitbucket/Git%20Credential%20Helpers?icon=bitbucket)
 
 - 👯 I am looking to collaborate on my research topics: #git-credential-helpers, #repository-authentication, #
