@@ -8,9 +8,25 @@
 
 - [x] Researching the following topics
 
-![](https://badgen.net/badge/Git/Git%20Credential%20Helpers?icon=git) ![](https://badgen.net/badge/GitHub/Git%20Credential%20Helpers?icon=github) ![](https://badgen.net/badge/GitLab/Git%20Credential%20Helpers?icon=gitlab) ![](https://badgen.net/badge/Bitbucket/Git%20Credential%20Helpers?icon=bitbucket)
+![](https://badgen.net/badge/Git/Git%20Credential%20Helpers?icon=git&label) ![](https://badgen.net/badge/GitHub/Git%20Credential%20Helpers?icon=github&label) ![](https://badgen.net/badge/GitLab/Git%20Credential%20Helpers?icon=gitlab&label) ![](https://badgen.net/badge/Bitbucket/Git%20Credential%20Helpers?icon=bitbucket&label)
 
-- 👯 I am looking to collaborate on my research topics: #git-credential-helpers, #repository-authentication, #
+- 👯 I am looking to collaborate on my research topics: ![](https://badgen.net/badge/Git/Git%20Credential%20Helpers?icon=git&label), ![](https://badgen.net/badge/Repositories/HTTPS%20Authentication?icon=&label)
+- ❔ ***Why am I looking into this:*** Authentication is hard, so is rolling your own identity access solutions (which developers sometimes do on an individual basis, i.e. SSH Key management). If you are part of a enterprise, this research may not be applicable. However, knowing the fundamentals of developer security, the properties of, capabilities and risks per platform is a key tenant for Secure Dev Ops on the edge of the network.
+- 🚗: What is my driver:
+    1. To Improve the guides/how-tos/resources in implementing HTTPS for Git<sup>**</sup>.
+    2. To self-improve my technical writing.
+    3. To development my understanding of core developer tooling by practice, investigation, research and eventually testing (as resources or collaborations avail themselves).
+- 📤: What us my intended output
+  - A proposed technical cookbook/guide to HTTPS authentication for Git and Repository Host providers
+  - Medium.com and/or LinkedIn articles on the same.
+  - Additional & subsequent writing projects covering: SSH Authentication, Secrets Management
+- 🎤: Who is this for
+  - New developers
+  - Fellow researchers
+  - Developers of open source credential helpers. Git-SCM suggest that independent developers can implement their own credential helpers.
+  - Non-technicals: auditors, management, company executives (?).
+
+<sup>**</sup> *It is not the intent to re-write the excellent documentation from the Git Credential Management team; but to supplement it, reference it and present it in a per scenario basis, and comment on the pros/cons/security risks of using each approach.* It is an extension/wrapper around the documentation.
 
 ### My Tech Stack is
 
