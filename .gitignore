@@ -1,0 +1,8 @@
+#
+# Exclude Images at root and at asset subfolder level
+#
+*.png
+*.jpeg
+/assets/*
+**/*.png
+**/*.jpeg
