@@ -22,8 +22,34 @@
 ### Learning & New Technologies
 
 - 🌱 I am currently learning ...
-   -  ![](https://badgen.net/badge/icon/git?icon=git&label)
+   -  Front End Design
+      -  *HTML & HTMX*: Hypermedia Design Applications
+      -  *Modern CSS*: <ins>Native CSS</ins> & <ins>Tailwind</ins>: Latest Modern CSS & CSS Uiltity Frameworks
+      -  *JavaScript*: <ins>Mimimal JavaScript</ins> for Interactivity
+   -  Hypermedia Design Application
+      -  *HTMX*:
+   -  Web App Frameworks & Services
+      -  *Web*: <ins>Django</ins> - Custom Web & Data App development.
+      -  *CMS*: <ins>Wix</ins> and <ins>Squarespace</ins> - Rapid Website development.
+   -  E-Commerce
+      -  *Digital Goods*:   <ins>Django + Stripe</ins> - E-commerce and SEO.  
+   -   Data & Cloud Hosting Services
+      -   *PaaS*: <ins>Heroku</ins> - Platform as a Service deployments & release.  
+   -  Command Line Interfaces
+      -   *CLI*: <ins>Python</ins> - Data Driven CLIs
+   
 
+
+### Workflows & Methods
+
+- 💬 Ask me about what I am ...
+- 🌱 I am currently employing ...
+   -  Workflow development i.e. Process & Flows
+   -  Project management i.e. Agile Boards, Kanban, Scrum
+   -  Agile & Scrum artefacts i.e. Epics, Features, Stories, User Acceptance
+   -  Test Strategies & Test Case Management i.e. Test Driven Development & Unit Testing
+   -  Configuration & Security: i.e. Infra, Settings & Secrets Management.
+   -  Deploy & Release: i.e. Cloud Hosting & App Publishing
 
 ### Contact
 - 📫 How to reach me: [![](https://img.shields.io/badge/LinkTree-%F0%9F%94%97%20Charles%20J%20Fowler%20%F0%9F%94%97-blue?logo=linktree)](https://linktr.ee/charlesjfowler), ![](https://badgen.net/badge/icon/discord?icon=discord&label) ![](https://badgen.net/badge/icon/slack?icon=slack&label) ![](https://badgen.net/badge/icon/telegram?icon=telegram&label) ![](https://badgen.net/badge/icon/twitter?icon=twitter&label)
