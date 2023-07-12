@@ -6,3 +6,5 @@
 /assets/*
 **/*.png
 **/*.jpeg
+.ai/*
+/.idea/*
