@@ -4,6 +4,8 @@
 
 ### iPoetDev is @[Charles j Fowler's GitHub](https://github.com/iPoetDev)
 
+#### Follow me: [LinkedIn](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=charlesjfowler)
+
 ### My Top Activities on Github current are:
 
 #### Coding
