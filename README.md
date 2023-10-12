@@ -9,7 +9,8 @@
 ### My Top Activities on GitHub current are:
 
 #### Coding
-[![wakatime](https://wakatime.com/badge/user/2027c27d-0bab-4d7c-bfed-5d0b21285657.svg)](https://wakatime.com/@2027c27d-0bab-4d7c-bfed-5d0b21285657) | [Activity Dashboard](https://wakatime.com/@ipoetdev)
+[![wakatime](https://wakatime.com/badge/user/2027c27d-0bab-4d7c-bfed-5d0b21285657.svg)](https://wakatime.com/@2027c27d-0bab-4d7c-bfed-5d0b21285657) | 
+[Activity Dashboard](https://wakatime.com/@ipoetdev)
 
 ### My Tech Stack is
 
