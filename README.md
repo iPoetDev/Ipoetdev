@@ -6,7 +6,7 @@
 
 #### Follow me: [LinkedIn](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=charlesjfowler)
 
-### My Top Activities on Github current are:
+### My Top Activities on GitHub current are:
 
 #### Coding
 [![wakatime](https://wakatime.com/badge/user/2027c27d-0bab-4d7c-bfed-5d0b21285657.svg)](https://wakatime.com/@2027c27d-0bab-4d7c-bfed-5d0b21285657) | [Activity Dashboard](https://wakatime.com/@ipoetdev)
