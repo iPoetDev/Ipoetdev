@@ -2,7 +2,7 @@
     **iPoetDev/Ipoetdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### iPoetDev is @[Charles j Fowler's GitHub](https://github.com/iPoetDev)
+### iPoetDev is @ [Charles j Fowler's GitHub](https://github.com/iPoetDev)
 
 #### Follow me: [LinkedIn](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=charlesjfowler)
 
