@@ -27,13 +27,13 @@
 
 ### Learning & New Technologies
 
-- 🌱 I am currently learning ...
+- 🌱 I am currently learning ... (Software Diploma, End Q1 2024)
    -  Front End Design
       -  *HTML & HTMX*: Hypermedia Design Applications
       -  *Modern CSS*: <ins>Native CSS</ins> & <ins>Tailwind</ins>: Latest Modern CSS & CSS Uiltity Frameworks
       -  *JavaScript*: <ins>Mimimal JavaScript</ins> for Interactivity
    -  Hypermedia Design Application
-      -  *HTMX*:
+      -  *HTMX*: HOWL,  HATEOS, www.htmx.org 
    -  Web App Frameworks & Services
       -  *Web*: <ins>Django</ins> - Custom Web & Data App development.
       -  *CMS*: <ins>Wix</ins> and <ins>Squarespace</ins> - Rapid Website development.
