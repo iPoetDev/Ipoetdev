@@ -2,12 +2,17 @@
     **iPoetDev/Ipoetdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### iPoetDev is @[Charles j Fowler's GitHub](https://github.com/iPoetDev)
+### iPoetDev is @ 
+Charles J Fowler's GitHub: https://github.com/iPoetDev
 
-### My Top Activities on Github current are:
+#### LinkedIn
+Follow me: [LinkedIn](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=charlesjfowler "Call to Action: Follow me on LinkedIn: Charles J Fowler")
 
-#### Coding
-[![wakatime](https://wakatime.com/badge/user/2027c27d-0bab-4d7c-bfed-5d0b21285657.svg)](https://wakatime.com/@2027c27d-0bab-4d7c-bfed-5d0b21285657) | [Activity Dashboard](https://wakatime.com/@ipoetdev)
+### My Top Activities on GitHub current are:
+
+#### Coding Metrics
+[![wakatime](https://wakatime.com/badge/user/2027c27d-0bab-4d7c-bfed-5d0b21285657.svg)](https://wakatime.com/@2027c27d-0bab-4d7c-bfed-5d0b21285657) <br>
+[Activity Dashboard](https://wakatime.com/@ipoetdev)
 
 ### My Tech Stack is
 
@@ -20,17 +25,17 @@
 ###### Cloud
 ![](https://badgen.net/badge/Azure/azure%20fundamentals?icon=azure&label  "Azure") ![](https://badgen.net/badge/AWS/aws?icon=amazonaws&label)
 
-
+<small><sup>No need to follow the links</sup></small>
 
 ### Learning & New Technologies
 
-- 🌱 I am currently learning ...
+- 🌱 I am currently learning ... (Software Diploma, End Q1 2024)
    -  Front End Design
       -  *HTML & HTMX*: Hypermedia Design Applications
       -  *Modern CSS*: <ins>Native CSS</ins> & <ins>Tailwind</ins>: Latest Modern CSS & CSS Uiltity Frameworks
       -  *JavaScript*: <ins>Mimimal JavaScript</ins> for Interactivity
    -  Hypermedia Design Application
-      -  *HTMX*:
+      -  *HTMX*: HOWL,  HATEOS, www.htmx.org 
    -  Web App Frameworks & Services
       -  *Web*: <ins>Django</ins> - Custom Web & Data App development.
       -  *CMS*: <ins>Wix</ins> and <ins>Squarespace</ins> - Rapid Website development.
