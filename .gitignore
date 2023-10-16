@@ -4,7 +4,6 @@
 *.png
 *.jpeg
 /assets/*
-**/*.png
 **/*.jpeg
 .ai/*
 /.idea/*
