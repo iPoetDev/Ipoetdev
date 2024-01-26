@@ -6,28 +6,25 @@
 
 ![](assets/img/spacer-15x5.png)![](assets/img/spacer-15x5.png)![](assets/img/spacer-15x5.png)![](assets/img/spacer-15x5.png)![](assets/img/spacer-15x5.png)![](assets/img/spacer-15x5.png)![](assets/img/spacer-15x5.png) [![LinkedIn Badge](https://img.shields.io/badge/Follow%20Me%20%20on%20LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=charlesjfowler "Call to Action: Follow me on LinkedIn: Charles J Fowler") ![](assets/img/spacer-50x5.png) [![wakatime](https://wakatime.com/badge/user/2027c27d-0bab-4d7c-bfed-5d0b21285657.svg)](https://wakatime.com/@2027c27d-0bab-4d7c-bfed-5d0b21285657) ![](assets/img/spacer-50x5.png)  [![ WakaTime ](https://img.shields.io/badge/WakaTime%20Coding%20Activities-wakatime?logo=wakatime&logoColor=white&labelColor=grey&color=0A66C2)]((https://wakatime.com/@ipoetdev))
 
-###### Compute
 
-Test
+### [Developer Skill Roadmaps](https://roadmap.sh "Current Progress") 
+> www: [Roadmap.sh](https://roadmap.sh "Developer Roadmaps: Community-curated Interactive Roadmaps"): Current progres and historical inventory of skills via step by step guides to Developer maturity
 
-![](https://badgen.net/badge/icon/windows?icon=windows&label)
+| Current Progress | Role Based Inventory | Years |  Coverage | 
+| :--- | :--- | :--- | :--- |
+| [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65b190180c5481228332b827?variant=dark&roadmaps=devops%2Cbackend%2Cfull-stack%2Cfrontend)](https://roadmap.sh) |  |  |
+| &nbsp;&nbsp;&nbsp; | [DevOps](https://roadmap.sh/devops?s=65b190180c5481228332b827) | 2019->Current | *24% Covered* <br> **133 Total** |
+| &nbsp;&nbsp;&nbsp; | [Backend](https://roadmap.sh/backend?s=65b190180c5481228332b827) | 2018->Current <br> 2003-2004 | *17% Covered* <br> **130 Total**  | 
+| &nbsp;&nbsp;&nbsp; | [Full Stack](https://roadmap.sh/full-stack?s=65b190180c5481228332b827) | 2023->Current | *19% Covered* <br> **37 Total** | 
+| &nbsp;&nbsp;&nbsp; | [Frontend](https://roadmap.sh/frontend?s=65b190180c5481228332b827) | 2023->Current <br> 2003-2004 | *57% Covered* <br> **123 Total**  | 
 
-###### Developer
+| Current Progress | Skill Based Inventory | Years |  Coverage | 
+| :--- | :--- | :--- | :--- |
+|[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65b190180c5481228332b827?variant=dark&roadmaps=python%2Cjavascript%2Cjava)](https://roadmap.sh) | | | |
+| &nbsp;&nbsp;&nbsp; | [Javascript](https://roadmap.sh/javascript?s=65b190180c5481228332b827) | 2023->Current <br> 2003-2004   | *56% Covered* <br> **118 Total** |  
+| &nbsp;&nbsp;&nbsp; | [Python](https://roadmap.sh/javascript?s=65b190180c5481228332b827) | 2023-> Current | *56% Covered* <br> **118 Total** |  
+| &nbsp;&nbsp;&nbsp; | [Java](https://roadmap.sh/javascript?s=65b190180c5481228332b827),<br> <sup>Android</sup> | 2019-2020 <br> 2001-2004,  | *56% Covered* <br> **118 Total** | 
 
-![](https://badgen.net/badge/icon/git?icon=git&label) ![](https://badgen.net/badge/icon/github?icon=github&label) ![](https://badgen.net/badge/icon/gitlab?icon=gitlab&label) ![](https://badgen.net/badge/icon/jira?icon=jira&label) ![](https://badgen.net/badge/icon/maven?icon=maven&label) ![](https://badgen.net/badge/icon/nuget?icon=nuget&label) ![](https://badgen.net/badge/icon/terminal?icon=terminal&label)
-
-###### Cloud
-
-![](https://badgen.net/badge/Azure/azure%20fundamentals?icon=azure&label  "Azure") ![](https://badgen.net/badge/AWS/aws?icon=amazonaws&label)
-
-<small><sup>No need to follow the links</sup></small>
-
-### [Developer Roadmaps]( "Current Progress") 
-> www: [Roadmap.sh](https://roadmap.sh "Developer Roadmaps: Community-curated Interactive Roadmaps")
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65b190180c5481228332b827?variant=dark&roadmaps=devops%2Cbackend%2Cfrontend%2Cpython)](https://roadmap.sh)
-
-- [Frontend](https://roadmap.sh/frontend?s=65b190180c5481228332b827 "Frontend: Front-end development is the development of visual and interactive elements of a website that users interact with directly. It's a combination of HTML, CSS and JavaScript, ")
 
 ### Workflows & Methods
 
