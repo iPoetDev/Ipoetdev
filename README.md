@@ -22,24 +22,12 @@ Test
 
 <small><sup>No need to follow the links</sup></small>
 
-### Learning & New Technologies
+### [Developer Roadmaps]( "Current Progress") 
+> www: [Roadmap.sh](https://roadmap.sh "Developer Roadmaps: Community-curated Interactive Roadmaps")
 
-- 🌱 I am currently learning ... (Software Diploma, End Q1 2024)
-    - Front End Design
-        - *HTML & HTMX*: Hypermedia Design Applications
-        - *Modern CSS*: <ins>Native CSS</ins> & <ins>Tailwind</ins>: Latest Modern CSS & CSS Uiltity Frameworks
-        - *JavaScript*: <ins>Mimimal JavaScript</ins> for Interactivity
-    - Hypermedia Design Application
-        - *HTMX*: HOWL, HATEOS, www.htmx.org
-    - Web App Frameworks & Services
-        - *Web*: <ins>Django</ins> - Custom Web & Data App development.
-        - *CMS*: <ins>Wix</ins> and <ins>Squarespace</ins> - Rapid Website development.
-    - E-Commerce
-        - *Digital Goods*:   <ins>Django + Stripe</ins> - E-commerce and SEO.
-    - Data & Cloud Hosting Services
-        - *PaaS*: <ins>Heroku</ins> - Platform as a Service deployments & release.
-    - Command Line Interfaces
-        - *CLI*: <ins>Python</ins> - Data Driven CLIs
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65b190180c5481228332b827?variant=dark&roadmaps=devops%2Cbackend%2Cfrontend%2Cpython)](https://roadmap.sh)
+
+- [Frontend](https://roadmap.sh/frontend?s=65b190180c5481228332b827 "Frontend: Front-end development is the development of visual and interactive elements of a website that users interact with directly. It's a combination of HTML, CSS and JavaScript, ")
 
 ### Workflows & Methods
 
