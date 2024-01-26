@@ -18,12 +18,17 @@
 | &nbsp;&nbsp;&nbsp; | [Full Stack](https://roadmap.sh/full-stack?s=65b190180c5481228332b827) | 2023->Current | *19% Covered* <br> **37 Total** | 
 | &nbsp;&nbsp;&nbsp; | [Frontend](https://roadmap.sh/frontend?s=65b190180c5481228332b827) | 2023->Current <br> 2003-2004 | *57% Covered* <br> **123 Total**  | 
 
+[Computer Science](https://roadmap.sh/computer-science?s=65b190180c5481228332b827) | [Cyber Security](https://roadmap.sh/cyber-security?s=65b190180c5481228332b827) 
+
 | Current Progress | Skill Based Inventory | Years |  Coverage | 
 | :--- | :--- | :--- | :--- |
 |[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65b190180c5481228332b827?variant=dark&roadmaps=python%2Cjavascript%2Cjava)](https://roadmap.sh) | | | |
 | &nbsp;&nbsp;&nbsp; | [Javascript](https://roadmap.sh/javascript?s=65b190180c5481228332b827) | 2023->Current <br> 2003-2004   | *56% Covered* <br> **118 Total** |  
-| &nbsp;&nbsp;&nbsp; | [Python](https://roadmap.sh/javascript?s=65b190180c5481228332b827) | 2023-> Current | *56% Covered* <br> **118 Total** |  
-| &nbsp;&nbsp;&nbsp; | [Java](https://roadmap.sh/javascript?s=65b190180c5481228332b827),<br> <sup>Android</sup> | 2019-2020 <br> 2001-2004,  | *56% Covered* <br> **118 Total** | 
+| &nbsp;&nbsp;&nbsp; | [Python](https://roadmap.sh/python?s=65b190180c5481228332b827) <br> <sup title="Django"></sup>| 2023-> Current | *34% Covered* <br> **50 Total** |  
+| &nbsp;&nbsp;&nbsp; | [Java](https://roadmap.sh/java?s=65b190180c5481228332b827),<br> <sup>Android</sup> | 2019-2020 <br> 2001-2004,  | *4% Covered* <br> **52 Total** | 
+| &nbsp;&nbsp;&nbsp; | [Node.js](https://roadmap.sh/nodejs?s=65b190180c5481228332b827)> | 2019-2020 <br> 2001-2004,  | *4% Covered* <br> **52 Total** | 
+
+**Others**: [PHP](#PHP "No Roadmap Yet"): 2001-2004 | [\#C](#CSharp "No Roadmap Yet"): 2001-2004 | [\CFML](#CFML "No Roadmap Yet"): 2001-2002
 
 
 ### Workflows & Methods
