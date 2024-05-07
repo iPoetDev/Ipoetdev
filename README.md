@@ -6,6 +6,8 @@
 
 ![](assets/img/spacer-15x5.png)![](assets/img/spacer-15x5.png)![](assets/img/spacer-15x5.png)![](assets/img/spacer-15x5.png)![](assets/img/spacer-15x5.png)![](assets/img/spacer-15x5.png)![](assets/img/spacer-15x5.png) [![LinkedIn Badge](https://img.shields.io/badge/Follow%20Me%20%20on%20LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=charlesjfowler "Call to Action: Follow me on LinkedIn: Charles J Fowler") ![](assets/img/spacer-50x5.png) [![wakatime](https://wakatime.com/badge/user/2027c27d-0bab-4d7c-bfed-5d0b21285657.svg)](https://wakatime.com/@2027c27d-0bab-4d7c-bfed-5d0b21285657) ![](assets/img/spacer-50x5.png)  [![ WakaTime ](https://img.shields.io/badge/WakaTime%20Coding%20Activities-wakatime?logo=wakatime&logoColor=white&labelColor=grey&color=0A66C2)]((https://wakatime.com/@ipoetdev))
 
+[**`DITIGAL OPEN COFFEE`**](https://tidycal.com/charlesjfowler/digital-open-coffee "Slip 15 mins in to a calendar for a Digital Open Coffee (Zoom)")
+
 
 ### [Developer Skill Roadmaps](https://roadmap.sh "Current Progress") 
 > www: [Roadmap.sh](https://roadmap.sh "Developer Roadmaps: Community-curated Interactive Roadmaps"): Current progres and historical inventory of skills via step by step guides to Developer maturity
