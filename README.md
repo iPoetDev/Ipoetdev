@@ -8,30 +8,17 @@
 
 [**`DITIGAL OPEN COFFEE`**](https://tidycal.com/charlesjfowler/digital-open-coffee "Slip 15 mins in to a calendar for a Digital Open Coffee (Zoom)")
 
+> <hr>
 
-### [Developer Skill Roadmaps](https://roadmap.sh "Current Progress") 
-> www: [Roadmap.sh](https://roadmap.sh "Developer Roadmaps: Community-curated Interactive Roadmaps"): Current progres and historical inventory of skills via step by step guides to Developer maturity
+## Portfolio
 
-| Current Progress | Role Based Inventory | Years |  Coverage | 
-| :--- | :--- | :--- | :--- |
-| [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65b190180c5481228332b827?variant=dark&roadmaps=devops%2Cbackend%2Cfull-stack%2Cfrontend)](https://roadmap.sh) |  |  |
-| &nbsp;&nbsp;&nbsp; | [DevOps](https://roadmap.sh/devops?s=65b190180c5481228332b827) | 2019->Current | *24% Covered* <br> **133 Total** |
-| &nbsp;&nbsp;&nbsp; | [Backend](https://roadmap.sh/backend?s=65b190180c5481228332b827) | 2018->Current <br> 2003-2004 | *17% Covered* <br> **130 Total**  | 
-| &nbsp;&nbsp;&nbsp; | [Full Stack](https://roadmap.sh/full-stack?s=65b190180c5481228332b827) | 2023->Current | *19% Covered* <br> **37 Total** | 
-| &nbsp;&nbsp;&nbsp; | [Frontend](https://roadmap.sh/frontend?s=65b190180c5481228332b827) | 2023->Current <br> 2003-2004 | *57% Covered* <br> **123 Total**  | 
-
-[Computer Science](https://roadmap.sh/computer-science?s=65b190180c5481228332b827) (2001 - 2004) | [Cyber Security](https://roadmap.sh/cyber-security?s=65b190180c5481228332b827) (2005 -> Current) | 
-
-| Current Progress | Skill Based Inventory | Years |  Coverage | 
-| :--- | :--- | :--- | :--- |
-|[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65b190180c5481228332b827?variant=dark&roadmaps=python%2Cjavascript%2Cjava)](https://roadmap.sh) | | | |
-| &nbsp;&nbsp;&nbsp; | [Javascript](https://roadmap.sh/javascript?s=65b190180c5481228332b827) | 2023->Current <br> 2003-2004   | *56% Covered* <br> **118 Total** |  
-| &nbsp;&nbsp;&nbsp; | [Python](https://roadmap.sh/python?s=65b190180c5481228332b827) <br> <sup title="Django"></sup>| 2023-> Current | *34% Covered* <br> **50 Total** |  
-| &nbsp;&nbsp;&nbsp; | [Java](https://roadmap.sh/java?s=65b190180c5481228332b827),<br> <sup>Android</sup> | 2019-2020 <br> 2001-2004,  | *4% Covered* <br> **52 Total** | 
-| &nbsp;&nbsp;&nbsp; | [Node.js](https://roadmap.sh/nodejs?s=65b190180c5481228332b827)> | 2019-2020 <br> 2001-2004,  | *4% Covered* <br> **52 Total** | 
-
-**Others**: [PHP](#PHP "No Roadmap Yet"): 2001-2004 | [\#C](#CSharp "No Roadmap Yet"): 2001-2004 | [CFML](#CFML "No Roadmap Yet"): 2001-2002
-
+- 🔗<sub> [![LinkedIn](https://img.shields.io/badge/LinkedIn:_Article🔗-Learning_IBM's_AL_&_ML_in_30_Days-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/pulse/learning-journey-discover-why-how-ai-2024-30-days-charles-j--8to3f?trackingId=nIVfbUnxTVipyO71HtrbbQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BmVlbdhJqQkaESKiMh81weQ%3D%3D "A learning journey to discover the Why and How of AI in 2024; in 30 days.") </sub>
+    - <sub>[![AiFunda](https://img.shields.io/badge/Credly_Certified🔗-Fundamentals_in_Artificial_Intelligence%20%20%20%20%20%20(July_2024)-blue?logo=credly&labelColor=195a50&color=ffc844&style=plastic)](https://www.credly.com/badges/209dcbfb-44e1-473f-a9b0-c2aa81e9024f "Fundamentals in Artificial Intelligence: issued by IBM")</sub>
+    - <sub>[![MLTools](https://img.shields.io/badge/Credly_Certified🔗-Machine_Learning_Methods_&_Tools_%20%20%20%20%20%20%20%20%20(July_2024)-blue?logo=credly&labelColor=195a50&color=ffc844&style=plastic)](https://www.credly.com/badges/e079ab4e-3e1e-42ae-8cd7-571a4291ccca "Machine Learning Methods and Tools: issued by IBM")</sub>
+    - <sub>[![DAML](https://img.shields.io/badge/Credly_Certified🔗-Data_Analytics:_Machine_Learning_%20%20%20%20%20%20%20%20%20%20%20(July_2024)-blue?logo=credly&labelColor=195a50&color=ffc844&style=plastic)](https://www.credly.com/badges/c38b18d3-406d-44a6-9648-e922a4085c53 "Data Analytics for Machine Learning: issued by IBM")</sub>
+    - <sub>[![SML](https://img.shields.io/badge/Credly_Certified🔗-Supervised_Machine_Learning_Methods_%20%20%20%20(July_2024)-blue?logo=credly&labelColor=195a50&color=ffc844&style=plastic)](https://www.credly.com/badges/5390c697-b21e-4813-8c11-60004ba3dee7 "Supervised Learning Method: issued by IBM")</sub>
+    - <sub>[![UML](https://img.shields.io/badge/Credly_Certified🔗-Unsupervised_Machine_Learning_Methods_(July_2024)-blue?logo=credly&labelColor=195a50&color=ffc844&style=plastic)](https://www.credly.com/badges/df3eea7c-8d36-47c2-aa1d-0b0ecde290be "Unsupervised Learning Methods: issued by IBM")</sub>
+    - <sub>[![NLP](https://img.shields.io/badge/Credly_Certified🔗-Natural_Language_Processing/GenAI_%20%20%20%20%20%20%20(July_2024)-blue?logo=credly&labelColor=195a50&color=ffc844&style=plastic)](https://www.credly.com/badges/ea8ed0c0-afd7-42ee-a92b-46adc7fceb09 "Natural Language Processing: issued by IBM")</sub>
 
 ### Workflows & Methods
 
@@ -46,9 +33,10 @@
 
 ### Contact
 
-- 📫 How to reach me: [![](https://img.shields.io/badge/LinkTree-%F0%9F%94%97%20Charles%20J%20Fowler%20%F0%9F%94%97-blue?logo=linktree)](https://linktr.ee/charlesjfowler), ![](https://badgen.net/badge/icon/discord?icon=discord&label) ![](https://badgen.net/badge/icon/slack?icon=slack&label) ![](https://badgen.net/badge/icon/telegram?icon=telegram&label) ![](https://badgen.net/badge/icon/twitter?icon=twitter&label)
+- <sub>[![Email](https://img.shields.io/badge/Author-Charles%20J%20Fowler-0077B5?logo=gmail&logoColor=white)](mailto:ipoetdev-github-no-reply@outlook.com "Contact CJ on GItHub email: ipoetdev-github-no-reply@outlook.com") <sup>|</sup> [![LinkedIn](https://img.shields.io/badge/Charles%20J%20Fowler-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://ie.linkedin.com/in/charlesjfowler "@CharlesJFowler @Linkedin.com") <sup>|</sup> [![GiThub](https://img.shields.io/badge/iPoetDev-GitHub-0077B5?logo=GitHub&logoColor=white)](https://github.com/ipoetdev "@iPoetDev @GitHub")</sub>
 - 😄 Pronouns: he/him/his/hij/il
 - ⚡ Fun fact: I climbed My Kenya, and I represented my country in sport, and I used to Dive
+
 
 <!--
 
