@@ -13,12 +13,12 @@
 ## Portfolio
 
 - 🔗<sub> [![LinkedIn](https://img.shields.io/badge/LinkedIn:_Article🔗-Learning_IBM's_AL_&_ML_in_30_Days-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/pulse/learning-journey-discover-why-how-ai-2024-30-days-charles-j--8to3f?trackingId=nIVfbUnxTVipyO71HtrbbQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BmVlbdhJqQkaESKiMh81weQ%3D%3D "A learning journey to discover the Why and How of AI in 2024; in 30 days.") </sub>
-    - <sub>[![AiFunda](https://img.shields.io/badge/Credly_Accredited_🔗-Fundamentals_in_Artificial_Intelligence%20%20%20%20%20%20(July_2024)-blue?logo=credly&labelColor=195a50&color=ffc844&style=plastic)](https://www.credly.com/badges/209dcbfb-44e1-473f-a9b0-c2aa81e9024f "Fundamentals in Artificial Intelligence: issued by IBM")</sub>
-    - <sub>[![MLTools](https://img.shields.io/badge/Credly_Accredited_🔗-Machine_Learning_Methods_&_Tools_%20%20%20%20%20%20%20%20%20(July_2024)-blue?logo=credly&labelColor=195a50&color=ffc844&style=plastic)](https://www.credly.com/badges/e079ab4e-3e1e-42ae-8cd7-571a4291ccca "Machine Learning Methods and Tools: issued by IBM")</sub>
-    - <sub>[![DAML](https://img.shields.io/badge/Credly_Accredited_🔗-Data_Analytics:_Machine_Learning_%20%20%20%20%20%20%20%20%20%20%20(July_2024)-blue?logo=credly&labelColor=195a50&color=ffc844&style=plastic)](https://www.credly.com/badges/c38b18d3-406d-44a6-9648-e922a4085c53 "Data Analytics for Machine Learning: issued by IBM")</sub>
-    - <sub>[![SML](https://img.shields.io/badge/Credly_Accredited_🔗-Supervised_Machine_Learning_Methods_%20%20%20%20(July_2024)-blue?logo=credly&labelColor=195a50&color=ffc844&style=plastic)](https://www.credly.com/badges/5390c697-b21e-4813-8c11-60004ba3dee7 "Supervised Learning Method: issued by IBM")</sub>
-    - <sub>[![UML](https://img.shields.io/badge/Credly_Accredited_🔗-Unsupervised_Machine_Learning_Methods_(July_2024)-blue?logo=credly&labelColor=195a50&color=ffc844&style=plastic)](https://www.credly.com/badges/df3eea7c-8d36-47c2-aa1d-0b0ecde290be "Unsupervised Learning Methods: issued by IBM")</sub>
-    - <sub>[![NLP](https://img.shields.io/badge/Credly_Accredited_🔗-Natural_Language_Processing/GenAI_%20%20%20%20%20%20%20(July_2024)-blue?logo=credly&labelColor=195a50&color=ffc844&style=plastic)](https://www.credly.com/badges/ea8ed0c0-afd7-42ee-a92b-46adc7fceb09 "Natural Language Processing: issued by IBM")</sub>
+    - <sub>[![AiFunda](https://img.shields.io/badge/Credly_Accredited_🔗-Fundamentals_in_Artificial_Intelligence%20%20%20%20%20%20(July_2024)-blue?logo=credly&labelColor=195a50&color=ffc844&style=plastic)](https://www.credly.com/badges/209dcbfb-44e1-473f-a9b0-c2aa81e9024f "Credly.com: Fundamentals in Artificial Intelligence: issued by IBM")</sub>
+    - <sub>[![MLTools](https://img.shields.io/badge/Credly_Accredited_🔗-Machine_Learning_Methods_&_Tools_%20%20%20%20%20%20%20%20%20(July_2024)-blue?logo=credly&labelColor=195a50&color=ffc844&style=plastic)](https://www.credly.com/badges/e079ab4e-3e1e-42ae-8cd7-571a4291ccca "Credly.com: Machine Learning Methods and Tools: issued by IBM")</sub>
+    - <sub>[![DAML](https://img.shields.io/badge/Credly_Accredited_🔗-Data_Analytics:_Machine_Learning_%20%20%20%20%20%20%20%20%20%20%20(July_2024)-blue?logo=credly&labelColor=195a50&color=ffc844&style=plastic)](https://www.credly.com/badges/c38b18d3-406d-44a6-9648-e922a4085c53 "Credly.com: Data Analytics for Machine Learning: issued by IBM")</sub>
+    - <sub>[![SML](https://img.shields.io/badge/Credly_Accredited_🔗-Supervised_Machine_Learning_Methods_%20%20%20%20(July_2024)-blue?logo=credly&labelColor=195a50&color=ffc844&style=plastic)](https://www.credly.com/badges/5390c697-b21e-4813-8c11-60004ba3dee7 "Credly.com: Supervised Learning Method: issued by IBM")</sub>
+    - <sub>[![UML](https://img.shields.io/badge/Credly_Accredited_🔗-Unsupervised_Machine_Learning_Methods_(July_2024)-blue?logo=credly&labelColor=195a50&color=ffc844&style=plastic)](https://www.credly.com/badges/df3eea7c-8d36-47c2-aa1d-0b0ecde290be "Credly.com: Unsupervised Learning Methods: issued by IBM")</sub>
+    - <sub>[![NLP](https://img.shields.io/badge/Credly_Accredited_🔗-Natural_Language_Processing/GenAI_%20%20%20%20%20%20%20(July_2024)-blue?logo=credly&labelColor=195a50&color=ffc844&style=plastic)](https://www.credly.com/badges/ea8ed0c0-afd7-42ee-a92b-46adc7fceb09 "Credly.com: Natural Language Processing: issued by IBM")</sub>
 
 ### Workflows & Methods
 
@@ -48,3 +48,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
+
+<br>
+
+> <hr>
+> <b>STATS</b>: Activity
+> <hr>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<sup>WakaTime's Profile Readme Development Stats by <sub>[![GHActcion](https://img.shields.io/badge/GitHub_Marketplace:anmol098-Profile_Readme_Development_Stats-0077B5?logo=github&logoColor=white&color=11151a)](https://github.com/marketplace/actions/profile-readme-development-stats "GitHub Marketplace: https://github.com/anmol098/waka-readme-stats")</sub> </sup>
