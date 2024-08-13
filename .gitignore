@@ -1,9 +1,9 @@
 #
 # Exclude Images at root and at asset subfolder level
 #
-*.png
+#*.png
 *.jpeg
-/assets/*
+#/assets/*
 **/*.jpeg
 .ai/*
 /.idea/*
