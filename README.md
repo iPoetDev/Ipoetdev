@@ -2,7 +2,7 @@
     **iPoetDev/Ipoetdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[![](assets/img/Email-Charles-J-Fowler-Contact-SoftwareDevelopment.png)](https://github.com/iPoetDev "Charles J Fowler's GitHub")
+[![](assets/img/iPoetDev-AIEngineer-Github-Banner.png)](https://github.com/iPoetDev "Charles J Fowler's GitHub")
 
 ![](assets/img/spacer-15x5.png)![](assets/img/spacer-15x5.png)![](assets/img/spacer-15x5.png)![](assets/img/spacer-15x5.png)![](assets/img/spacer-15x5.png)![](assets/img/spacer-15x5.png)![](assets/img/spacer-15x5.png) [![LinkedIn Badge](https://img.shields.io/badge/Follow%20Me%20%20on%20LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=charlesjfowler "Call to Action: Follow me on LinkedIn: Charles J Fowler") ![](assets/img/spacer-50x5.png) [![wakatime](https://wakatime.com/badge/user/2027c27d-0bab-4d7c-bfed-5d0b21285657.svg)](https://wakatime.com/@2027c27d-0bab-4d7c-bfed-5d0b21285657)</sub> ![](assets/img/spacer-50x5.png)  [![ WakaTime ](https://img.shields.io/badge/WakaTime%20Coding%20Activities-wakatime?logo=wakatime&logoColor=white&labelColor=grey&color=0A66C2)]((https://wakatime.com/@ipoetdev))
 
@@ -21,49 +21,49 @@
 
 ### [![](./assets/roadmaps-sh.png)](https://roadmap.sh/) Roadmap.sh
 
-> <sub>[![roadmaps.sh Python](https://img.shields.io/badge/%20%20%20%20-roadmaps.sh-0e1628?logo=roadmaps&labelColor=a753f7)](https://roadmap.sh/about)</sub> contains community-curated roadmaps, study plans, paths, and resources for developers. There are role-based roadmaps, listing skills for any given role, as well as skill-based roadmaps for improving. The following are continually self assessed.
+> <sub>[![roadmap.sh Python](https://img.shields.io/badge/%20%20%20%20-roadmap.sh-0e1628?logo=roadmap&labelColor=a753f7)](https://roadmap.sh/about)</sub> contains community-curated roadmaps, study plans, paths, and resources for developers. There are role-based roadmaps, listing skills for any given role, as well as skill-based roadmaps for improving. The following are continually self assessed.
 
 <small><sub>**`Roadmap/Domain Area (Done/No of Topics per Roadmap)`**</sub></small>
 
 #### DevOps, SRE, Systems etc
 
-- <sub>[![roadmaps.sh Python](https://img.shields.io/badge/roadmaps.sh-Python_%20%20%20(32/84)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/python?s=65b190180c5481228332b827)</sub>
-- <sub>[![roadmaps.sh DevOps](https://img.shields.io/badge/roadmaps.sh-DevOps_(27/134)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/devops?s=65b190180c5481228332b827)</sub>
-- <sub>[![roadmaps.sh Linux](https://img.shields.io/badge/roadmaps.sh-Linux_%20%20%20%20%20(7/103)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/linux?s=65b190180c5481228332b827)</sub>
-- <sub>[![roadmaps.sh git & GitHub](https://img.shields.io/badge/roadmaps.sh-Git_&_GitHub_(54/154)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/git-github?s=65b190180c5481228332b827)</sub>
-- <sub>[![roadmaps.sh Docker](https://img.shields.io/badge/roadmaps.sh-Docker_%20%20%20%20%20(6/51)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/git-github?s=65b190180c5481228332b827)</sub>
+- <sub>[![roadmap.sh Python](https://img.shields.io/badge/roadmap.sh-Python_%20%20%20(32/84)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/python?s=65b190180c5481228332b827)</sub>
+- <sub>[![roadmap.sh DevOps](https://img.shields.io/badge/roadmap.sh-DevOps_(27/134)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/devops?s=65b190180c5481228332b827)</sub>
+- <sub>[![roadmap.sh Linux](https://img.shields.io/badge/roadmap.sh-Linux_%20%20%20%20%20(7/103)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/linux?s=65b190180c5481228332b827)</sub>
+- <sub>[![roadmap.sh git & GitHub](https://img.shields.io/badge/roadmap.sh-Git_&_GitHub_(54/154)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/git-github?s=65b190180c5481228332b827)</sub>
+- <sub>[![roadmap.sh Docker](https://img.shields.io/badge/roadmap.sh-Docker_%20%20%20%20%20(6/51)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/git-github?s=65b190180c5481228332b827)</sub>
 
 #### Data, AI & ML
 
-- <sub>[![roadmaps.sh PostgresSQL](https://img.shields.io/badge/roadmaps.sh-PostgreSQL_%20%20(10/170)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/postgresql-dba?s=65b190180c5481228332b827)</sub>
-- <sub>[![roadmaps.sh SQL](https://img.shields.io/badge/roadmaps.sh-SQL_%20%20%20%20%20%20%20%20%20%20%20%20(57/170)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/sql?s=65b190180c5481228332b827)</sub>
-- <sub>[![roadmaps.sh AI & Data Scientist](https://img.shields.io/badge/roadmaps.sh-AI_&_Data_Scientist_(15/25)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/ai-data-scientist?s=65b190180c5481228332b827)</sub>
-- <sub>[![roadmaps.sh Data Analysts](https://img.shields.io/badge/roadmaps.sh-Data_Analyst_%20%20%20(29/107)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/data-analyst?s=65b190180c5481228332b827)</sub>
-- <sub>[![roadmaps.sh Promot Eng](https://img.shields.io/badge/roadmaps.sh-Prompt_Engineering_(24/59)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/prompt-engineering?s=65b190180c5481228332b8277)</sub>
-- <sub>[![roadmaps.sh Data Algorithms](https://img.shields.io/badge/roadmaps.sh-Data_Algorithms_(10/99)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/prompt-engineering?s=65b190180c5481228332b8277)</sub>
+- <sub>[![roadmap.sh PostgresSQL](https://img.shields.io/badge/roadmap.sh-PostgreSQL_%20%20(10/170)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/postgresql-dba?s=65b190180c5481228332b827)</sub>
+- <sub>[![roadmap.sh SQL](https://img.shields.io/badge/roadmap.sh-SQL_&_Databases%20%20(57/170)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/sql?s=65b190180c5481228332b827)</sub>
+- <sub>[![roadmap.sh AI & Data Scientist](https://img.shields.io/badge/roadmap.sh-AI_&_Data_Scientist_(15/25)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/ai-data-scientist?s=65b190180c5481228332b827)</sub>
+- <sub>[![roadmap.sh Data Analysts](https://img.shields.io/badge/roadmap.sh-Data_Analyst_%20%20%20%20%20%20%20(29/107)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/data-analyst?s=65b190180c5481228332b827)</sub>
+- <sub>[![roadmap.sh Promot Eng](https://img.shields.io/badge/roadmap.sh-Prompt_Engineering_(24/59)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/prompt-engineering?s=65b190180c5481228332b8277)</sub>
+- <sub>[![roadmap.sh Data Algorithms](https://img.shields.io/badge/roadmap.sh-Data_Algorithms_(10/99)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/prompt-engineering?s=65b190180c5481228332b8277)</sub>
 
 
 #### Security, Software Architecture etc
 
-- <sub>[![roadmaps.sh Cyber Sec](https://img.shields.io/badge/roadmaps.sh-Cyber_Security_%20%20%20%20%20%20%20%20(51/301)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/cyber-security?s=65b190180c5481228332b827)</sub>
-- <sub>[![roadmaps.sh SDA](https://img.shields.io/badge/roadmaps.sh-Software_Architecture_(10/95)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/software-design-architecture?s=65b190180c5481228332b827)</sub>
-- <sub>[![roadmaps.sh System Design](https://img.shields.io/badge/roadmaps.sh-System_Design_%20%20%20%20%20%20%20%20%20(8/151)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/software-design-architecture?s=65b190180c5481228332b827)</sub>
-- <sub>[![roadmaps.sh Software Architect](https://img.shields.io/badge/roadmaps.sh-Software_Architect_%20%20(13/113)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/software-architect?s=65b190180c5481228332b827)</sub>
-- <sub>[![roadmaps.sh Computer Science](https://img.shields.io/badge/roadmaps.sh-Computer_Science_%20%20%20(28/187)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/computer-science?s=65b190180c5481228332b827)</sub>
+- <sub>[![roadmap.sh Cyber Sec](https://img.shields.io/badge/roadmap.sh-Cyber_Security_%20%20%20%20%20%20%20%20(51/301)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/cyber-security?s=65b190180c5481228332b827)</sub>
+- <sub>[![roadmap.sh SDA](https://img.shields.io/badge/roadmap.sh-Software_Architecture_(10/95)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/software-design-architecture?s=65b190180c5481228332b827)</sub>
+- <sub>[![roadmap.sh System Design](https://img.shields.io/badge/roadmap.sh-System_Design_%20%20%20%20%20%20%20%20%20(8/151)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/software-design-architecture?s=65b190180c5481228332b827)</sub>
+- <sub>[![roadmap.sh Software Architect](https://img.shields.io/badge/roadmap.sh-Software_Architect_%20%20(13/113)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/software-architect?s=65b190180c5481228332b827)</sub>
+- <sub>[![roadmap.sh Computer Science](https://img.shields.io/badge/roadmap.sh-Computer_Science_%20%20%20(28/187)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/computer-science?s=65b190180c5481228332b827)</sub>
 
 ##### Writing, Docs & Collaboration
 
-- <sub>[![roadmaps.sh Technical Writing](https://img.shields.io/badge/roadmaps.sh-Technical_Writing_(8/151)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/technical-writer?s=65b190180c5481228332b827)</sub>
+- <sub>[![roadmap.sh Technical Writing](https://img.shields.io/badge/roadmap.sh-Technical_Writing_(8/151)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/technical-writer?s=65b190180c5481228332b827)</sub>
 
 #### Web Dev & Design
 
-- <sub>[![roadmaps.sh JavaScript](https://img.shields.io/badge/roadmaps.sh-JavaScript_(65/127)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/javascript?s=65b190180c5481228332b827)</sub>
-- <sub>[![roadmaps.sh Node JS](https://img.shields.io/badge/roadmaps.sh-Node.js_%20%20%20(7/113)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/nodejs?s=65b190180c5481228332b827)</sub>
-- <sub>[![roadmaps.sh Frontend](https://img.shields.io/badge/roadmaps.sh-Frontend_%20(62/115)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/frontend?s=65b190180c5481228332b827)</sub>
-- <sub>[![roadmaps.sh Backend](https://img.shields.io/badge/roadmaps.sh-Backend_(22/136)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/backend?s=65b190180c5481228332b827)</sub>
-- <sub>[![roadmaps.sh Full Stack](https://img.shields.io/badge/roadmaps.sh-Full_Stack_%20%20(7/37)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/full-stack?s=65b190180c5481228332b827)</sub>
+- <sub>[![roadmap.sh JavaScript](https://img.shields.io/badge/roadmap.sh-JavaScript_(65/127)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/javascript?s=65b190180c5481228332b827)</sub>
+- <sub>[![roadmap.sh Node JS](https://img.shields.io/badge/roadmap.sh-Node.js_%20%20%20(7/113)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/nodejs?s=65b190180c5481228332b827)</sub>
+- <sub>[![roadmap.sh Frontend](https://img.shields.io/badge/roadmap.sh-Frontend_%20(62/115)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/frontend?s=65b190180c5481228332b827)</sub>
+- <sub>[![roadmap.sh Backend](https://img.shields.io/badge/roadmap.sh-Backend_(22/136)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/backend?s=65b190180c5481228332b827)</sub>
+- <sub>[![roadmap.sh Full Stack](https://img.shields.io/badge/roadmap.sh-Full_Stack_%20%20(7/37)-a753f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/full-stack?s=65b190180c5481228332b827)</sub>
 
-**Visit**: - <sub>[![roadmaps.sh Full Stack](https://img.shields.io/badge/roadmaps.sh_Profile-iPoetDev-f5f5f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/u/ipoetdev "roadmap.sh: Profile Activity")</sub>
+**Visit**: - <sub>[![roadmap.sh Full Stack](https://img.shields.io/badge/roadmap.sh_Profile-iPoetDev-f5f5f7?logo=roadmaps&labelColor=0e1628)](https://roadmap.sh/u/ipoetdev "roadmap.sh: Profile Activity")</sub>
 
 ### Workflows & Methods
 
