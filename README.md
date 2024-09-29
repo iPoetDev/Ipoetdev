@@ -19,7 +19,10 @@
 
 - **October**: HacktoberFest '24.
 >  - 1️⃣ *Project*:
->     - URL: 
+>     - URL:
+>     - Promote: <sub>[![HackerNews](https://github.com/user-attachments/assets/a251736b-18aa-4e55-8f3a-c1ed17cb7bb4)](https://news.ycombinator.com/submitlink?u=https://roadmap.sh)
+ [![LinkedIn](https://github.com/user-attachments/assets/121cc18c-38f0-48b0-bde1-7041416d2469)](https://www.linkedin.com/shareArticle?url=https://roadmap.sh&title=Interactive%20roadmaps,%20guides%20and%20other%20educational%20content%20for%20Developers)</sub>
+
 
 > <hr>
 
