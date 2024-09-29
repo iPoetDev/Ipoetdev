@@ -15,6 +15,14 @@
 
 > <hr>
 
+## Currently
+
+- **October**: HacktoberFest '24.
+>  - 1️⃣ *Project*:
+>     - URL: 
+
+> <hr>
+
 ## Portfolio
 
 - 🔗<sub> [![LinkedIn](https://img.shields.io/badge/LinkedIn:_Article🔗-Learning_IBM's_AL_&_ML_in_30_Days-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/pulse/learning-journey-discover-why-how-ai-2024-30-days-charles-j--8to3f?trackingId=nIVfbUnxTVipyO71HtrbbQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BmVlbdhJqQkaESKiMh81weQ%3D%3D "A learning journey to discover the Why and How of AI in 2024; in 30 days.") </sub>
