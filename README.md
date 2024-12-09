@@ -24,10 +24,10 @@
  [![LinkedIn](https://github.com/user-attachments/assets/121cc18c-38f0-48b0-bde1-7041416d2469)](https://www.linkedin.com/shareArticle?url=https://roadmap.sh&title=Interactive%20roadmaps,%20guides%20and%20other%20educational%20content%20for%20Developers)</sub>
 -->
 
-| - **December**: Own Projects. | **Recent** Open Source | 
-| --- | --- |
-| - 1️⃣ *Project*: [https://github.com/iPoetDev/PSProfileTUI](https://github.com/iPoetDev/PSProfileTUI). | -- | 
-| - 2️⃣ *Project*: [https://github.com/iPoetDev/DevSandbox-Win](https://github.com/iPoetDev/DevSandbox-Win) | -- |
+| - **December**: Own Projects. | -- | **Recent** Open Source | 
+| --- | --- | -- | 
+| - 1️⃣ *Project*: [https://github.com/iPoetDev/PSProfileTUI](https://github.com/iPoetDev/PSProfileTUI). | -- |  ---  | 
+| - 2️⃣ *Project*: [https://github.com/iPoetDev/DevSandbox-Win](https://github.com/iPoetDev/DevSandbox-Win) | -- | --- | 
 
 > <hr>
 
