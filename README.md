@@ -27,7 +27,8 @@
 |  **December**: *Own Projects* | -- | **Recent** *Open Source* | 
 | --- | --- | -- | 
 | - 1️⃣ *Project*: [https://github.com/iPoetDev/PSProfileTUI](https://github.com/iPoetDev/PSProfileTUI). | -- |  [Hacktober '24 Contributor, Roadmap.sh](https://github.com/iPoetDev/roadmap-sh--developer-roadmap)  | 
-| - 2️⃣ *Project*: [https://github.com/iPoetDev/DevSandbox-Win](https://github.com/iPoetDev/DevSandbox-Win) | -- | [Prompt Engineering, Content, Roadmap.sh](https://roadmap.sh/prompt-engineering) | 
+| - 2️⃣ *Project*: [https://github.com/iPoetDev/DevSandbox-Win](https://github.com/iPoetDev/DevSandbox-Win) | -- | [Prompt Engineering, Content, Roadmap.sh](https://roadmap.sh/prompt-engineering) |  
+| - 2️⃣ 🚧 WIP - *Project*: [https://github.com/iPoetDev/browsechat](https://github.com/iPoetDev/browsechat) | -- | 🚧 WIP - [Browse Chat API](https://ipoetdev.github.io/browsechat-api/) | 
 
 &nbsp;
 > &nbsp;
